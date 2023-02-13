@@ -1,0 +1,9 @@
+{
+  "name": "vprok-puppet",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^19.6.3",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
